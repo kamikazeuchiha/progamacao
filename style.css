@@ -12,11 +12,11 @@ body, ul, li, p{
 
 a{
     text-decoration: none;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .header{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -35,5 +35,8 @@ a{
 .menu li a{
     display: block;
     padding: 10px;
-    background-color: #5e17eb;
+    background-color: #922ae7;
 }
+  body{
+     background-color: rgb(255, 247, 247);
+  }

@@ -47,7 +47,13 @@ a{
     width: 450px;
     height: auto;
 }
+
+.imagem2{ 
+    width: auto;
+    height: 400px;
+    }
 .item{
+
     display: flex;
     align-items: flex-start;
     border: 2px solid black;
